@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec.deps.json
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec.runtimeconfig.json
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec.runtimeconfig.dev.json
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec.dll
+/Users/shukufa/Projects/25dec/25dec/bin/Debug/netcoreapp3.1/25dec.pdb
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.AssemblyInfo.cs
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.dll
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.pdb
+/Users/shukufa/Projects/25dec/25dec/obj/Debug/netcoreapp3.1/25dec.genruntimeconfig.cache
